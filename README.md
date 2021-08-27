@@ -14,11 +14,8 @@
 ### 一些注意事项
 
 * **字体问题**
-
-本模板出于美观考虑，在一般Windows自带的字体以外，主要使用了思源宋体以及思源黑体。
-主要在标题类的部分使用加粗的宋体，正文部分主要使用黑体
-    * [思源宋体](https://github.com/adobe-fonts/source-han-serif)
-    * [思源黑体](https://github.com/adobe-fonts/source-han-sans)
+    * 本模板出于美观考虑，在一般Windows自带的字体以外，主要使用了[思源宋体](https://github.com/adobe-fonts/source-han-serif)以及[思源黑体](https://github.com/adobe-fonts/source-han-sans)。
+    * 主要在标题类的部分使用加粗的宋体，正文部分主要使用黑体
 
 * **屏幕比例问题**
 
