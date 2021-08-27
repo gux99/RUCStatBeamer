@@ -6,7 +6,7 @@
 | ![TeXLive2019](https://img.shields.io/badge/TeXLive-2019-3D6117.svg) | :heavy_check_mark: |
 ### 使用说明
 
-1. 配置好$\TeX$环境，并安装好所需的字体
+1. 配置好TeX环境，并安装好所需的字体
 2. 直接对`main.tex`进行修改，填补Slides中的内容
 3. 如有必要，可以对`mybeamer.cls`中内容进行修改，调整内容的格式
 4. 编译修改好的`main.tex`文件，建议使用`xelatex`进行编译
