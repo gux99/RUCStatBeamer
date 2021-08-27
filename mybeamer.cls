@@ -53,14 +53,14 @@
 % 设置字体（未完善）
 \setCJKmainfont[
 BoldFont = Source Han Serif CN SemiBold,
-ItalicFont = Adobe Kaiti Std R]
+ItalicFont = KaiTi]
 {Source Han Serif CN Medium}
 
 \setsansfont[BoldFont = Source Han Sans CN Medium]{Source Han Sans CN Normal}
 
 \setCJKsansfont[
 BoldFont = Source Han Sans CN Medium,
-ItalicFont = Adobe Kaiti Std R
+ItalicFont = KaiTi
 ]
 {Source Han Sans CN Normal}
 
