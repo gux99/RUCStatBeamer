@@ -1,0 +1,2 @@
+# RUCStatBeamer
+一个基于LaTeX的中国人民大学统计学院的Beamer模板
