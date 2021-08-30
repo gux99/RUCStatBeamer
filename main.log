@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.4.3)  27 AUG 2021 17:06
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.4.3)  30 AUG 2021 17:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -925,7 +925,7 @@ Package caption Info: Hyperref support is turned off
 )
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 39.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 41.
  (c:/texlive/2019/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup8
@@ -1169,7 +1169,7 @@ Package fontspec Info: Font family 'SourceHanSansCNNormal(0)' created for font
 (fontspec)             Normal/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Info: Redefining \sffamily on input line 60.
+LaTeX Info: Redefining \sffamily on input line 84.
 
 Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault' (Microsoft YaHei).
 
@@ -1506,10 +1506,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 40796 strings out of 492922
- 846711 string characters out of 6136752
+ 40798 strings out of 492922
+ 846721 string characters out of 6136752
  899401 words of memory out of 5000000
- 44053 multiletter control sequences out of 15000+600000
+ 44055 multiletter control sequences out of 15000+600000
  558384 words of font info for 135 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  68i,15n,74p,830b,648s stack positions out of 5000i,500n,10000p,200000b,80000s

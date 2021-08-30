@@ -6,11 +6,13 @@
 %--------------------------------------
 \newif\ifChinese
 \newif\ifEnglish
+% \def\@Sy{false}
 %--------------------------------------
 
 %--------------------------------------
 % \DeclareOption{zh}{\Chinesetrue\Englishfalse}
 % \DeclareOption{en}{\Chinesefalse\Englishtrue}
+\DeclareOption{noSy}{\def\@Sy{false}}
 \DeclareOption*{
     \PassOptionsToClass{\CurrentOption}{ctexbeamer}
 }
@@ -51,28 +53,36 @@
 
 % -------------------------------------------------------------------------------------------------
 % 设置字体（未完善）
-\setCJKmainfont[
-BoldFont = Source Han Serif CN SemiBold,
-ItalicFont = KaiTi]
-{Source Han Serif CN Medium}
 
-\setsansfont[BoldFont = Source Han Sans CN Medium]{Source Han Sans CN Normal}
+\ifdef{\@Sy}{
+    \newcommand{\song}{\rmfamily\songti}
+    \newcommand{\hei}{\sffamily\heiti}
+}
+{
+    \setCJKmainfont[
+    BoldFont = Source Han Serif CN SemiBold,
+    ItalicFont = KaiTi]
+    {Source Han Serif CN Medium}
 
-\setCJKsansfont[
-BoldFont = Source Han Sans CN Medium,
-ItalicFont = KaiTi
-]
-{Source Han Sans CN Normal}
+    \setsansfont[BoldFont = Source Han Sans CN Medium]{Source Han Sans CN Normal}
 
-% 思源宋体
-\newfontfamily\sysong{Source Han Serif CN}
-\setCJKfamilyfont{sysong}{Source Han Serif CN}
-\newcommand{\song}{\sysong\CJKfamily{sysong}}
+    \setCJKsansfont[
+    BoldFont = Source Han Sans CN Medium,
+    ItalicFont = KaiTi
+    ]
+    {Source Han Sans CN Normal}
 
-% 思源黑体
-\newfontfamily\syhei{Source Han Sans CN}
-\setCJKfamilyfont{syhei}{Source Han Sans CN}
-\newcommand{\hei}{\syhei\CJKfamily{syhei}}
+    % 思源宋体
+    \newfontfamily\sysong{Source Han Serif CN}
+    \setCJKfamilyfont{sysong}{Source Han Serif CN}
+    \newcommand{\song}{\sysong\CJKfamily{sysong}}
+
+    % 思源黑体
+    \newfontfamily\syhei{Source Han Sans CN}
+    \setCJKfamilyfont{syhei}{Source Han Sans CN}
+    \newcommand{\hei}{\syhei\CJKfamily{syhei}}
+}
+
 
 \setbeamerfont{title}{family=\song,size=\LARGE,series=\bfseries}
 \setbeamerfont{frametitle}{family=\song,size=\LARGE,series=\bfseries}
