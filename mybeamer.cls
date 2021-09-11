@@ -60,26 +60,26 @@
 }
 {
     \setCJKmainfont[
-    BoldFont = Source Han Serif CN SemiBold,
+    BoldFont = 思源宋体 SemiBold,
     ItalicFont = KaiTi]
-    {Source Han Serif CN Medium}
+    {思源宋体 Medium}
 
-    \setsansfont[BoldFont = Source Han Sans CN Medium]{Source Han Sans CN Normal}
+    \setsansfont[BoldFont = 思源黑体 Medium]{思源黑体 Normal}
 
     \setCJKsansfont[
-    BoldFont = Source Han Sans CN Medium,
+    BoldFont = 思源黑体 Medium,
     ItalicFont = KaiTi
     ]
-    {Source Han Sans CN Normal}
+    {思源黑体 Normal}
 
     % 思源宋体
-    \newfontfamily\sysong{Source Han Serif CN}
-    \setCJKfamilyfont{sysong}{Source Han Serif CN}
+    \newfontfamily\sysong{思源宋体}
+    \setCJKfamilyfont{sysong}{思源宋体}
     \newcommand{\song}{\sysong\CJKfamily{sysong}}
 
     % 思源黑体
-    \newfontfamily\syhei{Source Han Sans CN}
-    \setCJKfamilyfont{syhei}{Source Han Sans CN}
+    \newfontfamily\syhei{思源黑体}
+    \setCJKfamilyfont{syhei}{思源黑体}
     \newcommand{\hei}{\syhei\CJKfamily{syhei}}
 }
 
