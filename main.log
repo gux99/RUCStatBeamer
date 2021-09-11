@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.10)  11 SEP 2021 16:53
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.10)  11 SEP 2021 19:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -932,53 +932,56 @@ Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
 (fontspec)             exist).
 
 
-Package fontspec Info: Could not resolve font "思源宋体 SemiBold/I" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "Source Han Serif SC SemiBold/I"
+(fontspec)             (it probably doesn't exist).
 
 
-Package fontspec Info: Font family '思源宋体Medium(0)' created for font '思源宋体
-(fontspec)             Medium' with options [Script={CJK},BoldFont={思源宋体
+Package fontspec Info: Font family 'SourceHanSerifSCMedium(0)' created for
+(fontspec)             font 'Source Han Serif SC Medium' with options
+(fontspec)             [Script={CJK},BoldFont={Source Han Serif SC
 (fontspec)             SemiBold},ItalicFont={KaiTi}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"思源宋体
-(fontspec)             Medium/OT:script=hani;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             SC Medium/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"思源宋体
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Serif SC
 (fontspec)             SemiBold/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"思源宋体
-(fontspec)             Medium/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Serif SC Medium/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Package fontspec Info: Could not resolve font "思源黑体 Medium/I" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "Source Han Sans SC Medium/I"
+(fontspec)             (it probably doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "思源黑体 Normal/I" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "Source Han Sans SC Normal/I"
+(fontspec)             (it probably doesn't exist).
 
 
-Package fontspec Info: Font family '思源黑体Normal(0)' created for font '思源黑体
-(fontspec)             Normal' with options [Ligatures=TeX,BoldFont = 思源黑体
-(fontspec)             Medium].
+Package fontspec Info: Font family 'SourceHanSansSCNormal(0)' created for font
+(fontspec)             'Source Han Sans SC Normal' with options
+(fontspec)             [Ligatures=TeX,BoldFont = Source Han Sans SC Medium].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"思源黑体
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC
 (fontspec)             Normal/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"思源黑体
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans SC
 (fontspec)             Medium/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"思源黑体
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC
 (fontspec)             Normal/BI/OT:script=latn;language=dflt;mapping=tex-text;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
@@ -987,45 +990,45 @@ Package xeCJK Warning: Redefining CJKfamily `\CJKsfdefault'
 (xeCJK)                (FandolHei-Regular).
 
 
-Package fontspec Info: Could not resolve font "思源宋体/I" (it probably doesn't
-(fontspec)             exist).
+Package fontspec Info: Could not resolve font "Source Han Serif SC/I" (it
+(fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family '思源宋体(0)' created for font '思源宋体' with
-(fontspec)             options [].
+Package fontspec Info: Font family 'SourceHanSerifSC(0)' created for font
+(fontspec)             'Source Han Serif SC' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"思源宋体/OT:script=latn;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             SC/OT:script=latn;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"思源宋体/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             SC/B/OT:script=latn;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"思源宋体/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Serif SC/BI/OT:script=latn;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
-Package fontspec Info: Could not resolve font "思源黑体/I" (it probably doesn't
-(fontspec)             exist).
+Package fontspec Info: Could not resolve font "Source Han Sans SC/I" (it
+(fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family '思源黑体(0)' created for font '思源黑体' with
-(fontspec)             options [].
+Package fontspec Info: Font family 'SourceHanSansSC(0)' created for font
+(fontspec)             'Source Han Sans SC' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"思源黑体/OT:script=latn;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC/OT:script=latn;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"思源黑体/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC/B/OT:script=latn;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"思源黑体/BI/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC/BI/OT:script=latn;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 (c:/texlive/2021/texmf-dist/tex/latex/beamer/beamerfontthemeserif.sty))
@@ -1034,28 +1037,29 @@ Package fontspec Info: Could not resolve font "KaiTi/B" (it probably doesn't
 (fontspec)             exist).
 
 
-Package fontspec Info: Could not resolve font "思源黑体 Medium/I" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "Source Han Sans SC Medium/I"
+(fontspec)             (it probably doesn't exist).
 
 
-Package fontspec Info: Font family '思源黑体Normal(1)' created for font '思源黑体
-(fontspec)             Normal' with options [Script={CJK},BoldFont={思源黑体
+Package fontspec Info: Font family 'SourceHanSansSCNormal(1)' created for font
+(fontspec)             'Source Han Sans SC Normal' with options
+(fontspec)             [Script={CJK},BoldFont={Source Han Sans SC
 (fontspec)             Medium},ItalicFont={KaiTi}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"思源黑体
-(fontspec)             Normal/OT:script=hani;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC Normal/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"思源黑体
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans SC
 (fontspec)             Medium/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'italic' (m/it) with NFSS spec.:
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"思源黑体
-(fontspec)             Normal/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC Normal/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
  (./main.aux)
@@ -1152,24 +1156,24 @@ Package caption Info: subfigure package is loaded.
 Package caption Info: End \AtBeginDocument code.
  (./main.nav)
 
-Package fontspec Info: Could not resolve font "思源宋体/I" (it probably doesn't
-(fontspec)             exist).
+Package fontspec Info: Could not resolve font "Source Han Serif SC/I" (it
+(fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family '思源宋体(1)' created for font '思源宋体' with
-(fontspec)             options [Script={CJK}].
+Package fontspec Info: Font family 'SourceHanSerifSC(1)' created for font
+(fontspec)             'Source Han Serif SC' with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"思源宋体/OT:script=hani;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             SC/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"思源宋体/B/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             SC/B/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"思源宋体/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Serif SC/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 File: RUCstat_logo.png Graphic file (type bmp)
@@ -1260,24 +1264,24 @@ File: RUCstat_logo.png Graphic file (type bmp)
 
 ]
 
-Package fontspec Info: Could not resolve font "思源黑体/I" (it probably doesn't
-(fontspec)             exist).
+Package fontspec Info: Could not resolve font "Source Han Sans SC/I" (it
+(fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family '思源黑体(1)' created for font '思源黑体' with
-(fontspec)             options [Script={CJK}].
+Package fontspec Info: Font family 'SourceHanSansSC(1)' created for font
+(fontspec)             'Source Han Sans SC' with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"思源黑体/OT:script=hani;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"思源黑体/B/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans
+(fontspec)             SC/B/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"思源黑体/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Sans SC/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 File: RUCstat_logo.png Graphic file (type bmp)
@@ -1286,12 +1290,12 @@ File: RUCstat_logo.png Graphic file (type bmp)
 
 ]
 
-LaTeX Font Warning: Font shape `TU/思源黑体Normal(0)/m/it' undefined
-(Font)              using `TU/思源黑体Normal(0)/m/n' instead on input line 101.
+LaTeX Font Warning: Font shape `TU/SourceHanSansSCNormal(0)/m/it' undefined
+(Font)              using `TU/SourceHanSansSCNormal(0)/m/n' instead on input line 101.
 
 
-LaTeX Font Warning: Font shape `TU/思源黑体(0)/m/it' undefined
-(Font)              using `TU/思源黑体(0)/m/n' instead on input line 101.
+LaTeX Font Warning: Font shape `TU/SourceHanSansSC(0)/m/it' undefined
+(Font)              using `TU/SourceHanSansSC(0)/m/n' instead on input line 101.
 
 File: RUCstat_logo.png Graphic file (type bmp)
 <RUCstat_logo.png>
@@ -1314,8 +1318,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  31758 strings out of 476919
- 675575 string characters out of 5825424
- 997428 words of memory out of 5000000
+ 678584 string characters out of 5825424
+ 998380 words of memory out of 5000000
  50941 multiletter control sequences out of 15000+600000
  429466 words of font info for 149 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

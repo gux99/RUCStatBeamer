@@ -18,6 +18,7 @@ Beamer Template For RUC Stat
 
 * **字体问题**
     * 本模板出于美观考虑，在一般Windows自带的字体以外，主要使用了[思源宋体](https://github.com/adobe-fonts/source-han-serif)以及[思源黑体](https://github.com/adobe-fonts/source-han-sans)。
+    * 建议使用[Language Specific](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSansOTC.zip)版本的思源黑体。
     * 主要在标题类的部分使用加粗的宋体，正文部分主要使用黑体
     * 可在`\documentclass`处使用`noSy`选项以避免使用思源字体
 
@@ -36,5 +37,8 @@ Beamer Template For RUC Stat
 
 #### v1.002
 * 增加了noSy选项，使用默认的中文字体而不是思源字体
+
+#### v1.003
+* 目前默认使用Language Specific版本的思源字体。</br>若要使用Region Specific版本的思源字体，须在`mybeamer.cls`内修改字体部分设置
 
 **未完...**

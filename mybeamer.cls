@@ -53,6 +53,7 @@
 
 % -------------------------------------------------------------------------------------------------
 % 设置字体（未完善）
+% 若报字体相关的错误，请使用下面注释内的代码代替对应的未注释代码
 
 \ifdef{\@Sy}{
     \newcommand{\song}{\rmfamily\songti}
@@ -60,27 +61,48 @@
 }
 {
     \setCJKmainfont[
-    BoldFont = 思源宋体 SemiBold,
+    BoldFont = Source Han Serif SC SemiBold,
     ItalicFont = KaiTi]
-    {思源宋体 Medium}
+    {Source Han Serif SC Medium}
 
-    \setsansfont[BoldFont = 思源黑体 Medium]{思源黑体 Normal}
+    % \setCJKmainfont[
+    % BoldFont = Source Han Serif CN SemiBold,
+    % ItalicFont = KaiTi]
+    % {Source Han Serif CN Medium}
+
+    \setsansfont[BoldFont = Source Han Sans SC Medium]{Source Han Sans SC Normal}
+
+    % \setsansfont[BoldFont = Source Han Sans CN Medium]{Source Han Sans CN Normal}
 
     \setCJKsansfont[
-    BoldFont = 思源黑体 Medium,
+    BoldFont = Source Han Sans SC Medium,
     ItalicFont = KaiTi
     ]
-    {思源黑体 Normal}
+    {Source Han Sans SC Normal}
+
+    % \setCJKsansfont[
+    % BoldFont = Source Han Sans CN Medium,
+    % ItalicFont = KaiTi
+    % ]
+    % {Source Han Sans CN Normal}
 
     % 思源宋体
-    \newfontfamily\sysong{思源宋体}
-    \setCJKfamilyfont{sysong}{思源宋体}
+    \newfontfamily\sysong{Source Han Serif SC}
+    \setCJKfamilyfont{sysong}{Source Han Serif SC}
     \newcommand{\song}{\sysong\CJKfamily{sysong}}
 
+    % \newfontfamily\sysong{Source Han Serif CN}
+    % \setCJKfamilyfont{sysong}{Source Han Serif CN}
+    % \newcommand{\song}{\sysong\CJKfamily{sysong}}
+
     % 思源黑体
-    \newfontfamily\syhei{思源黑体}
-    \setCJKfamilyfont{syhei}{思源黑体}
+    \newfontfamily\syhei{Source Han Sans SC}
+    \setCJKfamilyfont{syhei}{Source Han Sans SC}
     \newcommand{\hei}{\syhei\CJKfamily{syhei}}
+
+    % \newfontfamily\syhei{Source Han Sans CN}
+    % \setCJKfamilyfont{syhei}{Source Han Sans CN}
+    % \newcommand{\hei}{\syhei\CJKfamily{syhei}}
 }
 
 
