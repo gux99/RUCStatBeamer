@@ -19,8 +19,8 @@ Beamer Template For RUC Stat
 * **字体问题**
     * 本模板出于美观考虑，在一般Windows自带的字体以外，主要使用了[思源宋体](https://github.com/adobe-fonts/source-han-serif)以及[思源黑体](https://github.com/adobe-fonts/source-han-sans)。
     * 字体的下载与安装：
-        * Windows: [思源宋体:Static Language Specific OTCs](https://github.com/adobe-fonts/source-han-serif/releases/download/2.000R/SourceHanSerifOTC.zip) [思源黑体:Static Language Specific OTCs](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSansOTC.zip).
-        * macOS: [思源宋体:Static Super OTC](https://github.com/adobe-fonts/source-han-serif/releases/download/2.000R/SourceHanSerif.ttc.zip)[思源黑体:Static Super OTC](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip).
+        * Windows: 建议下载[思源宋体:Static Language Specific OTCs](https://github.com/adobe-fonts/source-han-serif/releases/download/2.000R/SourceHanSerifOTC.zip) , [思源黑体:Static Language Specific OTCs](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSansOTC.zip).解压后请右键点击字体文件，并选择“**为所有用户安装**”以确保字体文件正确安装.
+        * macOS: 建议下载[思源宋体:Static Super OTC](https://github.com/adobe-fonts/source-han-serif/releases/download/2.000R/SourceHanSerif.ttc.zip)，[思源黑体:Static Super OTC](https://github.com/adobe-fonts/source-han-sans/releases/download/2.004R/SourceHanSans.ttc.zip).解压后直接安装即可.
         * Linux: 你已经是一个成熟的Linux使用者了，应该会自己安装字体.
     * 主要在标题类的部分使用加粗的宋体，正文部分主要使用黑体
     * 可在`\documentclass`处使用`noSy`选项以避免使用思源字体
@@ -43,5 +43,8 @@ Beamer Template For RUC Stat
 
 #### v1.003
 * 目前默认使用Language Specific版本的思源字体。</br>若要使用Region Specific版本的思源字体，须在`mybeamer.cls`内修改字体部分设置
+
+#### v1.004
+* 修复了一处BUG。并更新了说明文档，使其更加易懂
 
 **未完...**

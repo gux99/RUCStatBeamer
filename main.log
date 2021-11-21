@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.10)  11 SEP 2021 19:08
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.9.10)  21 NOV 2021 16:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -936,8 +936,8 @@ Package fontspec Info: Could not resolve font "Source Han Serif SC SemiBold/I"
 (fontspec)             (it probably doesn't exist).
 
 
-Package fontspec Info: Font family 'SourceHanSerifSCMedium(0)' created for
-(fontspec)             font 'Source Han Serif SC Medium' with options
+Package fontspec Info: Font family 'SourceHanSerifSC(0)' created for font
+(fontspec)             'Source Han Serif SC' with options
 (fontspec)             [Script={CJK},BoldFont={Source Han Serif SC
 (fontspec)             SemiBold},ItalicFont={KaiTi}].
 (fontspec)              
@@ -945,7 +945,7 @@ Package fontspec Info: Font family 'SourceHanSerifSCMedium(0)' created for
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Serif
-(fontspec)             SC Medium/OT:script=hani;language=dflt;"
+(fontspec)             SC/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Serif SC
 (fontspec)             SemiBold/OT:script=hani;language=dflt;"
@@ -954,7 +954,7 @@ Package fontspec Info: Font family 'SourceHanSerifSCMedium(0)' created for
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
-(fontspec)             Serif SC Medium/BI/OT:script=hani;language=dflt;"
+(fontspec)             Serif SC/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 
@@ -994,7 +994,7 @@ Package fontspec Info: Could not resolve font "Source Han Serif SC/I" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family 'SourceHanSerifSC(0)' created for font
+Package fontspec Info: Font family 'SourceHanSerifSC(1)' created for font
 (fontspec)             'Source Han Serif SC' with options [].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -1041,8 +1041,8 @@ Package fontspec Info: Could not resolve font "Source Han Sans SC Medium/I"
 (fontspec)             (it probably doesn't exist).
 
 
-Package fontspec Info: Font family 'SourceHanSansSCNormal(1)' created for font
-(fontspec)             'Source Han Sans SC Normal' with options
+Package fontspec Info: Font family 'SourceHanSansSC(1)' created for font
+(fontspec)             'Source Han Sans SC' with options
 (fontspec)             [Script={CJK},BoldFont={Source Han Sans SC
 (fontspec)             Medium},ItalicFont={KaiTi}].
 (fontspec)              
@@ -1050,7 +1050,7 @@ Package fontspec Info: Font family 'SourceHanSansSCNormal(1)' created for font
 (fontspec)             series/shapes:
 (fontspec)              
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
-(fontspec)             SC Normal/OT:script=hani;language=dflt;"
+(fontspec)             SC/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 (fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans SC
 (fontspec)             Medium/OT:script=hani;language=dflt;"
@@ -1059,7 +1059,7 @@ Package fontspec Info: Font family 'SourceHanSansSCNormal(1)' created for font
 (fontspec)             <->"KaiTi/OT:script=hani;language=dflt;"
 (fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
-(fontspec)             Sans SC Normal/BI/OT:script=hani;language=dflt;"
+(fontspec)             Sans SC/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
  (./main.aux)
@@ -1160,7 +1160,7 @@ Package fontspec Info: Could not resolve font "Source Han Serif SC/I" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family 'SourceHanSerifSC(1)' created for font
+Package fontspec Info: Font family 'SourceHanSerifSC(2)' created for font
 (fontspec)             'Source Han Serif SC' with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -1268,7 +1268,7 @@ Package fontspec Info: Could not resolve font "Source Han Sans SC/I" (it
 (fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family 'SourceHanSansSC(1)' created for font
+Package fontspec Info: Font family 'SourceHanSansSC(2)' created for font
 (fontspec)             'Source Han Sans SC' with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -1317,11 +1317,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 31758 strings out of 476919
- 678584 string characters out of 5825424
- 998380 words of memory out of 5000000
- 50941 multiletter control sequences out of 15000+600000
- 429466 words of font info for 149 fonts, out of 8000000 for 9000
+ 31747 strings out of 476919
+ 677606 string characters out of 5825424
+ 998152 words of memory out of 5000000
+ 50937 multiletter control sequences out of 15000+600000
+ 429426 words of font info for 144 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  159i,15n,160p,472b,678s stack positions out of 5000i,500n,10000p,200000b,80000s
 

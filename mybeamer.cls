@@ -63,7 +63,7 @@
     \setCJKmainfont[
     BoldFont = Source Han Serif SC SemiBold,
     ItalicFont = KaiTi]
-    {Source Han Serif SC Medium}
+    {Source Han Serif SC}
 
     % \setCJKmainfont[
     % BoldFont = Source Han Serif CN SemiBold,
@@ -78,7 +78,7 @@
     BoldFont = Source Han Sans SC Medium,
     ItalicFont = KaiTi
     ]
-    {Source Han Sans SC Normal}
+    {Source Han Sans SC}
 
     % \setCJKsansfont[
     % BoldFont = Source Han Sans CN Medium,
